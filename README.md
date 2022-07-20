@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @el-wittmer
-- 👀 I’m interested in data science and computational linguistics
-- 🌱 I’m currently learning PostgreSQL and Javascript
+- 👀 I’m interested in topics under the data science umbrella
+- 🌱 I’m currently learning D3 in Javascript
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
