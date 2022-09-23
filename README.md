@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @el-wittmer
 - 👀 I’m interested in networks, data visualization, and linguistics (computational or no)
-- 🌱 I’m currently learning D3 in Javascript
+- 🌱 I’m currently learning databases and NLP.
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
