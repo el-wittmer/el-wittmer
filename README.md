@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @el-wittmer
-- 👀 I’m interested in Human-Computer Interaction and working with users to create more intuitive systems.
-- 🌱 I’m currently reading Computer Systems: A Programmer's Perspective by Randal E. Bryant and David R. O’Hallaron.
+- 👀 I’m interested in Human-Computer Interaction
+<!--- - 🌱 I’m currently reading --->
 - 📫 I can be found at enw3 [at] illinois [dot] edu
 <!--- 💞️ I’m looking to collaborate on ... --->
 
