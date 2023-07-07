@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @el-wittmer
-- 👀 I’m interested in Web & Software Development and UI/UX design
-- 📫 I can be found at elaina [dot] n [dot] wittmer [at] gmail [dot] com
-- 🌱 I’m currently learning about web development tools such as Bootstrap & React
+- 👀 I’m interested in Web and Software Development and ML for Data Science
+- 📫 I can be found on [LinkedIn](https://www.linkedin.com/in/el-wittmer/)
+- 🌱 I’m currently learning about [Web development](https://www.udemy.com/course/the-complete-web-development-bootcamp/) and [Data Science](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/) through Udemy.
+- 📚 Currently reading [Software Engineering at Google](https://abseil.io/resources/swe-book) by Titus Winters, Tom Manshreck, and Hyrum Wright
 <!--- 💞️ I’m looking to collaborate on ... --->
 
 
